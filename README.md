@@ -1,2 +1,3 @@
 The relationship between state of charge (SoC) and open-circuit voltage (OCV) is crucial for understanding battery performance and management. The SoC indicates the current charge level of a battery relative to its total capacity, typically expressed as a percentage. In contrast, the OCV represents the voltage of a battery when it is not connected to any load or charger, reflecting its electrochemical potential.
-Generally its a non linear releation curve by refering several paper , the curve looks to be a 8th order polynomial curve . Here the equation that i took is 3rd order curve just to show genralised effect 
+Generally its a non linear releation curve by refering several paper , the curve looks to be a 8th order polynomial curve . 
+Here the equation that i took is 3rd order curve just to show genralised releation between OCV, SOC , Temperature 
