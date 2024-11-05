@@ -11,3 +11,5 @@ Provided the the coeffiecients a0,a1,a2,b0,b1, temperature of the the cell the d
 The a0,a1,a2,b0,b1 coefficients can be determined using cell testing  , Temperature of the Cell is provided by the user as a input 
 
 The Dashboard will also provide the entire SOC vs OCV curve 
+
+I have used tkinter for creating the front end of the application / Dashboard 
